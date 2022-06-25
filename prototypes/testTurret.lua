@@ -5,7 +5,6 @@ local testTurret = table.deepcopy(data.raw["ammo-turret"]["gun-turret"])
 testTurret.name = "test-turret"
 
 testTurret.inventory_size = 1
-testTurret.attacking_speed = 100
 testTurret.max_health = 12321
 
 data:extend{testTurret}
