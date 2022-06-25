@@ -3,4 +3,5 @@
 --test
 
 require("prototypes.testArtillery")
+require("prototypes.testTurret")
 require("prototypes.testArmor")
