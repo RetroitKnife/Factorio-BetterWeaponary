@@ -1,4 +1,4 @@
---test-armor.lua
+--testArmor.lua
 --author: RetroitKnife
 
 local testArmor = table.deepcopy(data.raw.armor["light-armor"])
