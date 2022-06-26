@@ -7,7 +7,7 @@ testArmor.name = "test-armor"
 testArmor.icons = {
 	{
 		icon = testArmor.icon,
-		tint = { r = 0.5, g = 0.5, b = 0.5, a = 0.3 }
+		tint = { r = 0.5, g = 0.7, b = 1.0, a = 1.0 }
 	}
 }
 
